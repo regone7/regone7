@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Md Regone Hossain.
 
-<img src="https://www.canva.com/design/DAGFge3DrMI/My3TM0vpmP2UClSPKEpJAg/edit?utm_content=DAGFge3DrMI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
+<img src="https://www.canva.com/design/DAGFge3DrMI/My3TM0vpmP2UClSPKEpJAg/edit?utm_content=DAGFge3DrMI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="banner" height="100" width="500" />
 
 <h3 align="center">A passionate web developer from Bangladesh.</h3>
 
