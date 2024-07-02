@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Md Regone Hossain.
 
-<img src="https://i.ibb.co/0D4dySP/Black-and-White-Modern-Business-Linked-In-Banner-1.jpg" alt="banner" height="100" width="500" />
+<img src="https://i.ibb.co/0D4dySP/Black-and-White-Modern-Business-Linked-In-Banner-1.jpg" alt="banner" height="500" width="1500" />
 
 <h3 align="center">A passionate web developer from Bangladesh.</h3>
 
