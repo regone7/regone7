@@ -4,6 +4,11 @@
 
 <h3 align="center">A passionate web developer from Bangladesh.</h3>
 
+<h3 align="left"> About me:</h3>
+<p align="left">
+I am a web developer with an exciting passion for learning modern technology. It makes me happy to design new concepts and interactive interfaces for any kind of website. As a developer, I have knowledge in product design, development, logic building, and debugging. I stay updated with the latest development trends and best practices to ensure that I create user-friendly websites.
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-regone-hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-regone-hossain/" height="30" width="40" /></a>
